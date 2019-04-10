@@ -1,0 +1,19 @@
+.container
+{
+    padding: 2px;
+    text-align: center;
+    transition: .5s all;
+
+}
+.container:hover
+{
+    transform: scale(1.1);
+
+}
+#tresc
+{
+    padding: 20px;
+    text-align: center;
+
+}
+

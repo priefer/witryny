@@ -1,19 +1,21 @@
 .container
 {
-    padding: 2px;
-    text-align: center;
-    transition: .5s all;
+		width: auto;
+		height: auto;
+
 
 }
-.container:hover
+#header
 {
-    transform: scale(1.1);
+		padding: 2px;
+    text-align: center;
 
 }
 #tresc
 {
     padding: 20px;
     text-align: center;
-
+		margin-right: auto;
+		margin-left: auto;
 }
 
